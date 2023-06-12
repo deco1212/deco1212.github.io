@@ -1,6 +1,5 @@
 # DecoTheEpicGuy's Site
 
-Github for my Site, you can fork it, steal it, i do not mind, but please do credit me.
-First of all, all of this is unfinished, i need to make more pages and fix them, maybe add more crap.
-If you accidentally accessed this page, it means you accessed a MD page, not a HTML page, this is the Main Page
-https://deco1212.github.io/index.html
+This website was made with HTML and Github Pages by DecoTheEpicGuy on YouTube, this websites development is hobby work and is not making any profit or money at all, you can reuse the websites content but only with permission from the email address (andreethangamer@gmail.com) and not make any profit or money from it, because as said before, this website is hobby-work, if you use the websites files without permission OR make profit from the websites source code, you wont be punished but will get caught and recieve negative attention from people or my viewers.
+
+Main Page - https://deco1212.github.io/index.html
