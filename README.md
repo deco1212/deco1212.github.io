@@ -1,3 +1,3 @@
 # DecoTheEpicGuy's Site
-s
-aaa
+
+Github for my Site, you can fork it steal it idc
