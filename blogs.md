@@ -7,7 +7,9 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/95529667/230091922-34ff2431-d361-470b-863f-5232ddc1b31d.jpg">
 </p>
 
-# Here you can learn about my self and the tasks i do, and sometimes i can warn you of serious stuff or make updates
+
+Here you can learn about my self and the tasks i do, and sometimes i can warn you of serious stuff or make updates
+
 
 ## BLOG
 
@@ -62,3 +64,6 @@ will be my new blogging page and i'll delete it later!!!
 
 I had privated the Epik Funkin blog page, not deleted cuz archiving purposes...
 
+# 08:08 - 20/06/2023
+
+After 2 months i finally made another blog, the reason is so obvious, ahem, birthday was kind of boring since i chose it to be at my home and like, inviting 3 people... duh, but hey, atleast i got the best cake EVER!!!
