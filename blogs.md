@@ -15,7 +15,7 @@
 
 I had redesigned Deco today, so that means every character will be redesigned
 
-![New Piskel (36)](https://github.com/deco1212/Decos-Blogs/blob/main/images/New%20Piskel%20(36).gif)
+![New Piskel (36)](https://raw.githubusercontent.com/deco1212/deco1212.github.io/main/images/New%20Piskel%20(36).gif)
 
 And Coolest was recharted a week ago lol
 
