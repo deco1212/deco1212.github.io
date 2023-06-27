@@ -4,7 +4,7 @@
 
 # DecoTheEpicGuy's Main Github Page
 
-<img width="640" height="360" src="https://raw.githubusercontent.com/deco1212/deco1212.github.io/main/images/dekogithub.png">
+<img width="386" height="134" src="https://raw.githubusercontent.com/deco1212/deco1212.github.io/main/images/dekogithub.png">
 
 Hi there! this is my Github page for Wikis, Tutorials, Previews and more!
 
